@@ -1,0 +1,16 @@
+F:\Node_JS & Projects\FlipZon_Backend\DotNet Projects\Fileop2\Fileop2\bin\Debug\Fileop2.exe.config
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\Fileop2.exe.config
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\Fileop2.exe
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\Fileop2.pdb
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\obj\Debug\Fileop2.csprojResolveAssemblyReference.cache
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\obj\Debug\Fileop2.csproj.ResolveComReference.cache
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\obj\Debug\Fileop2.exe
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\obj\Debug\Fileop2.pdb
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\PdfSharp.Charting.dll
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\PdfSharp.dll
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\SautinSoft.Document.dll
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\PdfSharp.xml
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\PdfSharp.Charting.xml
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\SautinSoft.Document.xml
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\de\PdfSharp.resources.dll
+F:\Node_JS & Projects\DotNet Applications\DotNet Projects\Fileop2\Fileop2\bin\Debug\de\PdfSharp.Charting.resources.dll
