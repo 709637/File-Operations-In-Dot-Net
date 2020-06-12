@@ -52,13 +52,13 @@ namespace Fileop2
 
             //PDF Operations-------------------------------------------------------------------------------------------------------
 
-            PDF_File pdfop = new PDF_File();
-            pdfop.pdfOperataion();
+            //PDF_File pdfop = new PDF_File();
+            //pdfop.pdfOperataion();
 
 
             //PDF Operations-------------------------------------------------------------------------------------------------------
-
-
+            Console.WriteLine(args[0]+ args[1]);   // pass the properties from Right click on project name  --> Debug --> Command line argument
+            Console.ReadKey();
         }
     }
 }
