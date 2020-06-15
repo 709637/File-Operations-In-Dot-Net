@@ -57,7 +57,27 @@ namespace Fileop2
 
 
             //PDF Operations-------------------------------------------------------------------------------------------------------
-            Console.WriteLine(args[0]+ args[1]);   // pass the properties from Right click on project name  --> Debug --> Command line argument
+
+
+            //Command Line Arguments-------------------------------------------------------------------------------------------------------
+
+
+            //Console.WriteLine(args[0]+ args[1]);   // pass the properties from Right click on project name  --> Debug --> Command line argument
+
+
+            //Command Line Arguments-------------------------------------------------------------------------------------------------------
+
+            //Zip Operations-------------------------------------------------------------------------------------------------------
+
+
+            ZipFiles zipping = new ZipFiles();
+            //zipping.makeZipFiles();
+            //zipping.multipleFileZip(@"F:\Node_JS & Projects\OutputFolder\AllFiles.zip");
+            //zipping.readingZipFileNames();
+            zipping.extractAllFiles();
+            Console.Write("Zipped all files");
+
+            //Zip Operations-------------------------------------------------------------------------------------------------------
             Console.ReadKey();
         }
     }

@@ -16,7 +16,6 @@ namespace Fileop2
 
             string[] keysFromAppConfig = ConfigurationManager.AppSettings.AllKeys;
             Console.WriteLine(ConfigurationManager.AppSettings[keysFromAppConfig[0]]);
-
             //Reading the APP.config-----------------------------------------------------------------------------------------------
         }
 
